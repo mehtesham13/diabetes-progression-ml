@@ -41,8 +41,8 @@ The scikit-learn diabetes dataset: 442 patients, 10 standardized features, and a
 ## How to run
 
 ```bash
-git clone https://github.com/mehtesham13/Machine-Learning-Project.git
-cd Machine-Learning-Project
+git clone https://github.com/mehtesham13/diabetes-progression-ml.git
+cd diabetes-progression-ml
 pip install -r requirements.txt
 jupyter notebook diabetes_progression.ipynb
 ```
